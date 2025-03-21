@@ -12,7 +12,7 @@
 ![Bitcoin Forks](https://img.shields.io/badge/Bitcoin%20Forks-supported-orange?style=flat-square)
 ![EVM Compatible](https://img.shields.io/badge/EVM-compatible-purple?style=flat-square)
 
-# Custody Multichain Crypto Wallet
+# Custody Multichain Crypto
 
 A powerful, developer-friendly SDK for creating and managing non-custodial multichain crypto wallets.  
 Supports **Ethereum**, **Bitcoin**, **Solana**, **Waves**, and other **EVM-compatible blockchains** like Binance Smart Chain, Polygon, Avalanche, and more.  
